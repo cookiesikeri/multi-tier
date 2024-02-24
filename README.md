@@ -12,9 +12,6 @@ This project allows us to deploy a highly available, scalable, and secure multi-
 
 - **Database Tier**: The database stores and manages our application data. In this architecture, we use Amazon RDS for a managed database service.
 
-## 📌 Architecture Diagram
-![multi-tier-architecture](https://github.com/mathesh-me/multi-tier-architecture-using-terraform/assets/144098846/14aeb752-ba87-4f51-87d5-bcf3000ee455)
-
 
 ## 🚦 Getting Started
 
@@ -108,7 +105,7 @@ Follow these steps to deploy the architecture:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mathesh-me/multi-tier-architecture-using-terraform.git
+   git clone https://github.com/cookiesikeri/multi-tier.git
    ```
 
 2. Make changes as per your needs.
@@ -129,9 +126,3 @@ Follow these steps to deploy the architecture:
 ### Security Considerations
 - Review and customize the security groups and network ACLs to meet your specific security requirements.
 
-## 🤝 Contributing
-Contributions are Welcome! Please read my Contributing Guidelines to get started with contributing to this project.
-
-## 📄 License
-This project is licensed under the MIT License.
-# multi-tier
